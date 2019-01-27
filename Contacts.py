@@ -1,5 +1,4 @@
 import os
-import json
 class phBook:
     # Adds contacts to the file named contacts.txt
     def add_contacts(self):
